@@ -1,0 +1,9 @@
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTraider.Domain\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.deps.json
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTraider.Domain\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.dll
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTraider.Domain\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.pdb
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTraider.Domain\obj\Debug\netcoreapp3.1\SimpleTrader.Domain.csprojAssemblyReference.cache
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTraider.Domain\obj\Debug\netcoreapp3.1\SimpleTrader.Domain.AssemblyInfoInputs.cache
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTraider.Domain\obj\Debug\netcoreapp3.1\SimpleTrader.Domain.AssemblyInfo.cs
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTraider.Domain\obj\Debug\netcoreapp3.1\SimpleTrader.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTraider.Domain\obj\Debug\netcoreapp3.1\SimpleTrader.Domain.dll
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTraider.Domain\obj\Debug\netcoreapp3.1\SimpleTrader.Domain.pdb

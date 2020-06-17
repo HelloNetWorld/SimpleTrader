@@ -1,0 +1,15 @@
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.deps.json
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.dll
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csprojAssemblyReference.cache
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.AssemblyInfo.cs
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.dll
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.runtimeconfig.json
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.runtimeconfig.dev.json
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.pdb
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.pdb
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csproj.CopyComplete
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.dll
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.pdb
+C:\Users\Виктор\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.genruntimeconfig.cache
